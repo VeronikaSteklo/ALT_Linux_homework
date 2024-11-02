@@ -1,22 +1,14 @@
 1. Какие файловые системы вы знаете?
 
 Ext (extended) FS.
-
 Ext2. 
-
 Ext3. 
-
 Ext4. 
-
 XFS. 
-
 Btrfs. 
-
 OpenZFS. 
-
 SYSFS.
-
-PROCFS
+PROCFS.
 
 ---
 
