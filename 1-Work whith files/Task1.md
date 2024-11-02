@@ -66,8 +66,6 @@ diff abobus.txt task1.6/aboba.txt
 sort abobus.txt
 ```
 
----
-
 ```bash
 sort -r abobus.txt
 ```
